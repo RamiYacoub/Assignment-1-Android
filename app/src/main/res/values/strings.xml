@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ass1(Final)</string>
+    <string name="prompt_password">Enter your password</string>
+    <string name="prompt_email">Enter your email</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="welcome">Welcome</string>
+    <string name="create_new_account">Sign up</string>
+
 </resources>
