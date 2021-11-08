@@ -14,7 +14,7 @@
         android:layout_marginTop="20dp"
         android:layout_marginLeft="120dp"
         android:layout_marginBottom="30dp"
-        android:text="Register here!"
+        android:text="@string/register_here"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="24sp" />
@@ -36,7 +36,7 @@
         android:layout_marginBottom="20dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name" />
+        android:text="@string/name" />
     <EditText
         android:id="@+id/editTextTextPersonEmail"
         android:layout_width="wrap_content"
@@ -44,7 +44,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginBottom="20dp"
         android:ems="10"
-        android:text="Email" />
+        android:text="@string/email" />
 
     <EditText
         android:id="@+id/editTextTextPersonCountry"
@@ -52,7 +52,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
         android:ems="10"
-        android:text="Country" />
+        android:text="@string/country" />
 
     <Button
         android:id="@+id/button3"
@@ -60,7 +60,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="150sp"
         android:layout_marginTop="30sp"
-        android:text="Register" />
+        android:text="@string/register" />
 
 
 </LinearLayout>
